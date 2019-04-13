@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FreakingPizza</string>
+    <string name="txt_login">Login</string>
+    <string name="hint_login">Informe seu Login</string>
+    <string name="txt_senha">Senha</string>
+    <string name="hint_senha">Informe sua Senha</string>
+    <string name="botao_login">Conectar</string>
+</resources>
